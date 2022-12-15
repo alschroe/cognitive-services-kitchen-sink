@@ -1,4 +1,4 @@
-# Fork of Cognitive Services Kitchen Sink
+# Fork of the Cognitive Services Kitchen Sink
 
 Welcome to the Cognitive Services Kitchen Sink application. It gives you an overview of how different Azure Cognitive Services are embedded in a TypeScript application using Rest API calls or the JavaScript SDK.
 
