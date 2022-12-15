@@ -1,0 +1,1 @@
+import{g as e}from"./index.74384ddb.js";const t=e({id:"settings",state:()=>({apikey:"",azureregion:"",faceApiKey:"",faceApiEndpoint:"",predictionkey:"",predictionendpoint:"",publishiterationname:"",iterationid:""}),persist:!0});export{t as u};
